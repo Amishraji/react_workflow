@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #1e3a8a;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 40px;
+  text-align: center;
+}
+
+#home {
+  background-color: #f3f4f6;
+}
+
+#about {
+  background-color: #e5e7eb;
+}
+
+#services {
+  background-color: #f9fafb;
+}
+
+#contact {
+  background-color: #e5e7eb;
+}
+
+footer {
+  background-color: #111827;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
