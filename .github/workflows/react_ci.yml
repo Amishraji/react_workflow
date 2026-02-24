@@ -8,7 +8,7 @@ on:
 
 jobs:
   call-reusable-workflow:
-    uses: ./.github/workflows/react-reusable.yml
+    uses: ./.github/workflows/react_reusable.yml
     with:
       node-version: "21"
   # build:
